@@ -1,2 +1,5 @@
-# mi-primer-repositorio
-Primer repositorio creado como practica de control de versiones y utilización de GitHub 
+# Mi-primer-repositorio
+## Descripción: Este repositorio fue creado para aprender los fundamentos de GitHub 
+## Autor: Nicoll Saray Niño González
+## Tecnologías: Git-GitHub-Markdown
+## Objetivo: Aprender a utilizar repositorios y control de versiones 
